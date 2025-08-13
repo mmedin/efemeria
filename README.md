@@ -81,7 +81,7 @@ El health check se ejecuta cada 30 segundos y está disponible en:
 ## 📱 Uso
 
 1. Abre la aplicación en tu navegador
-2. Ingresa tu nombre completo
+2. Ingresa tu nombre
 3. Selecciona el día y mes de tu fecha de nacimiento
 4. Elige el modelo de IA que prefieras
 5. Haz clic en "Descubrir mi efeméride"
